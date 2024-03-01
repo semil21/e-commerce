@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "65ae3c027659b3d94e8752c2"
+  },
+  "category": "jeans",
+  "description": "test",
+  "active": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65afb438bf4aad543f7b29f2"
+  },
+  "category": "test1",
+  "description": "test1",
+  "active": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65afb440bf4aad543f7b29f6"
+  },
+  "category": "test2",
+  "description": "test2",
+  "active": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65afb448bf4aad543f7b29fa"
+  },
+  "category": "test3",
+  "description": "test3",
+  "active": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0ddecec25847e2db954a5"
+  },
+  "category": "test4",
+  "description": "test4",
+  "active": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0e5e9ec25847e2db95f90"
+  },
+  "category": "test5",
+  "description": "test5",
+  "active": 1,
+  "__v": 0
+}]
